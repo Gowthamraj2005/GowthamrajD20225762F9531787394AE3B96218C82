@@ -22,6 +22,3 @@ if __name__ == "__main__":
 
 batsman.play()
 bowler.play()
-
-batsman.play()  
-bowler.play()
